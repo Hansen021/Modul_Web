@@ -1,6 +1,6 @@
 #Modul_Web
 
-#Form_Input.php
+*Form_Input.php*
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@ if(isset($_POST['nama'])) {
 </html>
 
 
-#Form_Kerja.php
+*Form_Kerja.php*
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,7 +88,8 @@ if(isset($_POST['nama'])) {
 
 
 
-#Php_dasar.php
+*Php_dasar.php*
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
